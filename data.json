@@ -1,0 +1,64 @@
+{
+    "profile": {
+        "name": "DinzID",
+        "bio": "Digital creator & content curator. Welcome to my online space where I share my passions and connect with you!",
+        "image": "https://files.catbox.moe/nbv69y.jpg"
+    },
+    "links": [
+        {
+            "title": "Whatsapp Admin",
+            "url": "https://Wa.me/628990936282",
+            "icon": "fab fa-whatsapp"
+        },
+        {
+            "title": "Grup Bot Whatsapp",
+            "url": "https://chat.whatsapp.com/BXmn4vEG1cXEwLPduxEPXz",
+            "icon": "fab fa-whatsapp bussines"
+        },
+        {
+            "title": "Kumpulan Sc Bot Whatsapp",
+            "url": "https://link-repository-lime.vercel.app",
+            "icon": "fas fa-globe"
+        },
+        {
+            "title": "Instagram",
+            "url": "https://instagram.com/dinzid_04",
+            "icon": "fab fa-instagram"
+        },
+        {
+            "title": "Twitter",
+            "url": "https://twitter.com/Gading_kencana0",
+            "icon": "fab fa-twitter"
+        },
+        {
+            "title": "YouTube",
+            "url": "https://youtube.com/@dinzid_04?si=Ye13jvZeilHfNXnl",
+            "icon": "fab fa-youtube"
+        },
+        {
+            "title": "spotify",
+            "url": "https://open.spotify.com/playlist/3zSDgFWJra36poKWxP0Vtp?si=3MH8tUd8TKOr4Mxy-Rb41A",
+            "icon": "fab fa-spotify"
+        },
+        {
+            "title": "TikTok",
+            "url": "https://tiktok.com/@dinz4whotao",
+            "icon": "fab fa-tiktok"
+        },
+        {
+            "title": "GitHub",
+            "url": "https://github.com/DinzID",
+            "icon": "fab fa-github"
+        }
+    ],
+    "music": {
+        "title": "I WANNA BE YOURS",
+        "artist": "Arctic Monkeys",
+        "albumArt": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+        "audioFile": "https://cloudgood.web.id/file/VuEzfTI.mp3", 
+        "duration": 180,
+        "timeSync": [
+            { "time": 1.01, "text": "INSTRUMENTAL\nI WANNA BE YOURS" }
+        ]
+    }
+}
