@@ -20,6 +20,14 @@
             "url": "https://whatsapp.com/channel/0029VbAuu0fFHWpvAZAS3d17",
             "icon": "fab fa-whatsapp bussines"
         },
+        {  "title": "TESTIMONI DINZID",
+            "url" : "https://whatsapp.com/channel/0029VbAw3s74SpkFUKJale0d",
+            "icon": " fab fa-whatsapp"
+        },
+        {  "title": "Grup Komunitas YoimiyaMD",
+            "url" : "https://chat.whatsapp.com/E8sprcVjfaD9Eu8Rfc2t3n",
+            "icon": " fab fa-whatsapp"
+        },
         {
             "title": "DinzID STORE HOSTING",
             "url": "https://dinzid-hosting.netlify.app",
